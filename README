@@ -1,0 +1,3 @@
+模型id:通过请求API获取
+https://www.coze.cn/open/docs/developer_guides/get_metadata_draft_published
+请求这个文档中的接口获取，用curl比较方便
