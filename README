@@ -1,3 +1,2 @@
-模型id:通过请求API获取
-https://www.coze.cn/open/docs/developer_guides/get_metadata_draft_published
+进入coze页面->空间配置->模型管理->查看上方url，最后的就是该模型id
 请求这个文档中的接口获取，用curl比较方便
